@@ -2,3 +2,5 @@ this is tim jordan
 
 I'm Erica! 
 
+This is some text I'm adding today - 2/22/2012. 
+fun times with Git!
